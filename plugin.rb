@@ -11,6 +11,7 @@ gem 'hashie', '3.6.0', { require: false }
 gem 'multi_json', '1.13.1', { require: false }
 gem 'net_dav', '0.5.1', { require: false }
 gem 'netrc', '0.8.0', { require: false }
+gem 'mime-types-data', '3.2019.0331', { require: false }
 gem 'mime-types', '3.2.2', { require: false }
 gem 'rest-client', '2.0.2', { require: false }
 gem 'ocman', '1.2.2'
